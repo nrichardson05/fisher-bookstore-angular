@@ -11,7 +11,7 @@ import { OrdersComponent } from './orders/orders.component';
 import { NavBarComponent } from './nav-bar/nav-bar.component';
 import { FooterComponent } from './footer/footer.component';
 import { NotFoundComponent } from './not-found/not-found.component';
-import { AppRouterModule } from './/router.module';
+import { AppRouterModule } from './router.module'
 import { BooksService } from './books/books.service';
 
 
